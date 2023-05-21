@@ -1,6 +1,6 @@
 # pid_led
 
-Class project for PHS3910 - Techniques expérimentales et instrumentation
+Class material or PHS3910 - Techniques expérimentales et instrumentation
 
 Fall 2021
 
